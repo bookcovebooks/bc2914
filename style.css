@@ -9,6 +9,7 @@ p { text-indent: 1.15em; margin-top: 0.1em; margin-bottom: 0.1em;
 p.no-indent { text-indent: 0; }
 /* title page styling */
 .mb10 { margin-bottom: 1.0em; }
+.mt05 { margin-top: 0.5em; }
 .fs12 { font-size: 1.2em; }
 .fs14 { font-size: 1.4em; }
 .tac { text-align: center; }

@@ -11,6 +11,7 @@ p.no-indent { text-indent: 0; }
 .mb10 { margin-bottom: 1.0em; }
 .fs12 { font-size: 1.2em; }
 .fs14 { font-size: 1.4em; }
+.tac { text-align: center; }
 /* centering */
 .titlepage
   { text-align: center; margin: 2em 0; }

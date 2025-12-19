@@ -18,14 +18,12 @@
 <text>
 
 <front>
-  <div type='frontispiece'>
+  <div type='titlepage'>
   <figure rend="center">
     <graphic url="images/illus-fpc.jpg" width="75%"/>
     <figDesc>A dog holding a cougar by the neck.</figDesc>
   </figure>
-  </div>
-  
-  <div type='titlepage'>
+
   <lg>
   <l rend='fs14 tac'>BILL OF THE WILD STREAK</l>
   <l rend='tac mt05'>BY</l>
